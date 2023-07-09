@@ -1,0 +1,11 @@
+Spitalul de Urgenta Floreasca
+50
+3
+Medicina Interna
+Chirurgie generala
+A.T.I.
+4
+3
+2
+5
+1

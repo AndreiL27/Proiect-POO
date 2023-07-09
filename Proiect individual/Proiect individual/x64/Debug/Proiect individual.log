@@ -1,0 +1,4 @@
+﻿  Etapa1.cpp
+D:\Desktop\Anul II CSIE\Sem I\POO\Proiect individual\Proiect individual\Etapa1.cpp(54,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\Anul II CSIE\Sem I\POO\Proiect individual\Proiect individual\Etapa1.cpp(102,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Desktop\Anul II CSIE\Sem I\POO\Proiect individual\Proiect individual\Etapa1.cpp(136,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

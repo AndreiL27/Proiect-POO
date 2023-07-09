@@ -1,0 +1,12 @@
+Laboratorul de Analize
+9
+3
+Analize de sange
+50
+1
+Analize de urina
+30
+0
+Analize de fecale
+40
+1

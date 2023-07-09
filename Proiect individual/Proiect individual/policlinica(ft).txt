@@ -1,0 +1,19 @@
+Bucuresti
+Policlinica de Chirurgie
+6
+4
+Cardiologie
+Chirurgie generala
+Oncologie
+Medicina Interna
+5
+Consult cardiologie
+Control chirurgie generala
+Control dermatologie
+Ecografie abdomen superior
+Consult neurologie
+225
+145
+180
+200
+225
